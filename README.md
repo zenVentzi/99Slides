@@ -7,20 +7,19 @@ Contrary to what the web-archive says, the installs got around 40k at some point
 99 Slides is simple, free, addicting & extremely funny brain game that requires concentration, attention & speed of thought.
 99 Slides features:
 
-۰•● Addicting, fast, funny & challenging brain game!
-۰•● Challenges your brain and your speed of thought!
-۰•● Challenges your brain and your ability to concentrate!
-۰•● Challenges your brain and your ability to pay attention!
-۰•● Clean, simple, funny, animated, addicting and stunning HD 2d graphics!
-۰•● Supports all sort of mobile devices including tablets and phablets!
-۰•● Suitable for competitive and not so competitive people!
-۰•● Challenges your emotions, keep calm bro!
-۰•● Highly addictive, so play carefully!
-۰•● Easy to learn but hard to master!
-۰•● More than 50 achievements!
-۰•● 15+ social leaderboards!
-۰•● Suitable for all ages!
-
+- ۰•● Addicting, fast, funny & challenging brain game!
+- ۰•● Challenges your brain and your speed of thought!
+- ۰•● Challenges your brain and your ability to concentrate!
+- ۰•● Challenges your brain and your ability to pay attention!
+- ۰•● Clean, simple, funny, animated, addicting and stunning HD 2d graphics!
+- ۰•● Supports all sort of mobile devices including tablets and phablets!
+- ۰•● Suitable for competitive and not so competitive people!
+- ۰•● Challenges your emotions, keep calm bro!
+- ۰•● Highly addictive, so play carefully!
+- ۰•● Easy to learn but hard to master!
+- ۰•● More than 50 achievements!
+- ۰•● 15+ social leaderboards!
+- ۰•● Suitable for all ages!
 
 Play 99 Slides for free and
 
